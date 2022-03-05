@@ -42,12 +42,14 @@ Continous numberical: clean outlairs
 * Numerical cleaning: Scale 
 
 ## Modeling
-  M1: the base model without any cleaning, featuring
-  M2: clean the outliars based on Average Income feature
-  M3: Deal with inbalanced data
-  M3_1: SMOTE, oversampling + scaling numberical
-  M4: choosing features only base on coefficient score
-  M5: choosing features base on my understanding
+  * M1: the base model without any cleaning, featuring
+  * M2: clean the outliars based on Average Income feature
+  * M3: Deal with inbalanced data
+  * M3_1: SMOTE, oversampling + scaling numberical
+  * M4: choosing features only base on coefficient score
+  * M5: choosing features base on my understanding
 ## Modeling Validation
-The 
-## Reporting
+In this project, I look at the most if the confusion matrix, paying extra attention on what is the precentage of 1 being predicted correctly. There are several metrix I also pay attention in order to twist my model: coeficient score, accuracy, etc. 
+
+## Reporting: 
+Please see my presentation attached for my conclusion. All models that I built whicih accurracy is aroung 65% - 70%. 
